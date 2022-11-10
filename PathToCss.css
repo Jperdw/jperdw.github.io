@@ -1,0 +1,14 @@
+.MyGradientClass
+{
+    height:715px;
+     background-image: linear-gradient(bottom, rgb(50, 79, 224) 25%, rgb(98, 48, 236) 63%, rgb(113, 73, 221) 82%);
+    background-image: -o-linear-gradient(bottom, rgb(10, 13, 187) 25%, rgb(41, 29, 166) 63%, rgb(51, 57, 177) 82%);
+    
+    background-image: -webkit-gradient(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0.25, rgb(22, 49, 135)),
+        color-stop(0.82, rgba(62, 110, 242, 0.59))
+    );   
+}​
