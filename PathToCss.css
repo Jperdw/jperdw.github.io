@@ -1,0 +1,8 @@
+body{
+    background: linear-gradient(to top,#2b1055,#7597de);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.odd{
+    color: rgb(0, 0, 0)
+}
