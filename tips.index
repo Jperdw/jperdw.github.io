@@ -12,8 +12,7 @@
 </style>
 
 <body>
-    <button ng-if="trunOn">Search</button>
-    <h1 class = odd style="text-align:center;">Tips Distributor</h1>
+     <h1 class = odd style="text-align:center;">Tips Distributor</h1>
     <h2 style="text-align:center;">Imput Your Amounts!</h2>
     <form style="text-align:center;"> 
   <label for="HMB">How Much Are You Giving the Kitchen?:</label><br>
